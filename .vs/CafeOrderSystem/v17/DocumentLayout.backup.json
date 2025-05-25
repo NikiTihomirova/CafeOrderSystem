@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\factorymethod\\drinkfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\factorymethod\\drinkfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\singleton\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\singleton\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\strategy\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\strategy\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\strategy\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\strategy\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\strategy\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\strategy\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\strategy\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\strategy\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\factorymethod\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\factorymethod\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\factorymethod\\lemonade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\factorymethod\\lemonade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\factorymethod\\juice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\factorymethod\\juice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\factorymethod\\idrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\factorymethod\\idrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|d:\\4 sem\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\cafeordersystem\\cafeordersystem\\factorymethod\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3EB-01A9-4C71-B5BA-5ED683A54174}|CafeOrderSystem\\CafeOrderSystem.csproj|solutionrelative:cafeordersystem\\factorymethod\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Program.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Program.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Program.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAIwMEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:47:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Singleton\\OrderManager.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Singleton\\OrderManager.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Singleton\\OrderManager.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Singleton\\OrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:45.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrinkFactory.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\DrinkFactory.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\FactoryMethod\\DrinkFactory.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\DrinkFactory.cs",
+              "RelativeToolTip": "CafeOrderSystem\\FactoryMethod\\DrinkFactory.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:07.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Strategy\\PaymentContext.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\PaymentContext.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Strategy\\PaymentContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:47:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Strategy\\IPaymentStrategy.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\IPaymentStrategy.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Strategy\\IPaymentStrategy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:47:00.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Order.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Order.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Order.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:45:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\CashPayment.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Strategy\\CashPayment.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\CashPayment.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Strategy\\CashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:55.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardPayment.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\CardPayment.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\Strategy\\CardPayment.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\Strategy\\CardPayment.cs",
+              "RelativeToolTip": "CafeOrderSystem\\Strategy\\CardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Tea.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\FactoryMethod\\Tea.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Tea.cs",
+              "RelativeToolTip": "CafeOrderSystem\\FactoryMethod\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lemonade.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Lemonade.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\FactoryMethod\\Lemonade.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Lemonade.cs",
+              "RelativeToolTip": "CafeOrderSystem\\FactoryMethod\\Lemonade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:36.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Juice.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Juice.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\FactoryMethod\\Juice.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Juice.cs",
+              "RelativeToolTip": "CafeOrderSystem\\FactoryMethod\\Juice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:30.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDrink.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\IDrink.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\FactoryMethod\\IDrink.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\IDrink.cs",
+              "RelativeToolTip": "CafeOrderSystem\\FactoryMethod\\IDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:25.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Coffee.cs",
+              "RelativeDocumentMoniker": "CafeOrderSystem\\FactoryMethod\\Coffee.cs",
+              "ToolTip": "D:\\4 sem\\\u0428\u0430\u0431\u043B\u043E\u043D\u0438 \u0437\u0430 \u0441\u043E\u0444\u0442\u0443\u0435\u0440\u0435\u043D \u0434\u0438\u0437\u0430\u0439\u043D 1 \u0447\u0430\u0441\u0442\\CafeOrderSystem\\CafeOrderSystem\\FactoryMethod\\Coffee.cs",
+              "RelativeToolTip": "CafeOrderSystem\\FactoryMethod\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:46:02.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
