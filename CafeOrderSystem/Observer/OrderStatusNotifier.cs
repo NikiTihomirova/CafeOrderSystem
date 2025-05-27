@@ -1,17 +1,31 @@
 ﻿using System.Collections.Generic;
+
 namespace CafeteriaOrderSystem.Observer
 {
     public class OrderStatusNotifier
     {
-        private readonly List<IOrderObserver> _observers = new();
+        // Списък с наблюдатели, които ще получават известия
+        private readonly List<IOrderObserver> _observers = new List<IOrderObserver>();
 
-        public void Subscribe(IOrderObserver observer) => _observers.Add(observer);
-        public void Unsubscribe(IOrderObserver observer) => _observers.Remove(observer);
+        // Метод за добавяне на нов наблюдател
+        public void Subscribe(IOrderObserver observer)
+        {
+            _observers.Add(observer);
+        }
 
+        // Метод за премахване на наблюдател
+        public void Unsubscribe(IOrderObserver observer)
+        {
+            _observers.Remove(observer);
+        }
+
+        // Метод за известяване на всички наблюдатели с дадено съобщение
         public void NotifyAll(string message)
         {
-            foreach (var observer in _observers)
+            foreach (IOrderObserver observer in _observers)
+            {
                 observer.Notify(message);
+            }
         }
     }
 }

@@ -1,18 +1,33 @@
 ﻿using System;
+
 namespace CafeteriaOrderSystem.FactoryMethod
 {
     public static class OrderFactory
     {
         public static IOrder CreateOrder(string type)
         {
-            return type.ToLower() switch
+            string loweredType = type.ToLower();
+
+            if (loweredType == "coffee")
             {
-                "coffee" => new Coffee(),
-                "tea" => new Tea(),
-                "juice" => new Juice(),
-                "lemonade" => new Lemonade(),
-                _ => throw new ArgumentException("Невалиден тип напитка")
-            };
+                return new Coffee();
+            }
+            else if (loweredType == "tea")
+            {
+                return new Tea();
+            }
+            else if (loweredType == "juice")
+            {
+                return new Juice();
+            }
+            else if (loweredType == "lemonade")
+            {
+                return new Lemonade();
+            }
+            else
+            {
+                throw new ArgumentException("Невалиден тип напитка");
+            }
         }
     }
 }

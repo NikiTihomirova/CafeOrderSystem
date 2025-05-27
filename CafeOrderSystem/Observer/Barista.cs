@@ -4,13 +4,25 @@ namespace CafeteriaOrderSystem.Observer
 {
     public class Barista : IOrderObserver
     {
-        public string Name { get; }
+        private string _name;
 
-        public Barista(string name) => Name = name;
+        public string Name
+        {
+            get
+            {
+                return _name;
+            }
+        }
+
+        public Barista(string name)
+        {
+            _name = name;
+        }
 
         public void Notify(string message)
         {
-            Console.WriteLine($"[Бариста {Name}] Получи известие: {message}");
+            string output = "[Бариста " + _name + "] Получи известие: " + message;
+            Console.WriteLine(output);
         }
     }
 }
